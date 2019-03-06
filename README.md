@@ -1,6 +1,12 @@
 npm start
+
+
 npm i -g yarn
+
+
 yarn build:dev
+
+
 
 
 
