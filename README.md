@@ -1,3 +1,10 @@
+npm start
+npm i -g yarn
+yarn build:dev
+
+
+
+
 # [GitHub Desktop](https://desktop.github.com)
 
 [![Travis](https://img.shields.io/travis/desktop/desktop.svg?style=flat-square&label=Travis+CI)](https://travis-ci.org/desktop/desktop)
